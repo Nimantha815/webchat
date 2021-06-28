@@ -18,7 +18,7 @@ const Login = () => {
             <br></br>
             <br></br>
             <div id="login-card">
-                <h2>Welocome To Web Chat........</h2>
+                <h2>Welcome To Web Chat........</h2>
                
 
 
